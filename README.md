@@ -15,7 +15,7 @@ the data processing includes removing the special characters ,numerics , html ta
 
 models used:
     random forest 
-    naive bayes
+    Naive bayes
     KNN
     support vector classifier
     logistic regression 
