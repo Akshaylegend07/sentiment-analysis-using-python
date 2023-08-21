@@ -4,7 +4,7 @@ this dataset contains details of the reviews for few products sold by amazon
 
 the ipynb file contains all the code required for 
 1. importing libraries
-2. loading the data set
+2. Loading the data set
 3. data cleaning and processing 
 4. splitting the data set into train and test data
 5. training using a model
